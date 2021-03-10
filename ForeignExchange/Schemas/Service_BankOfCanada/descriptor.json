@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+    "Name": "Service_BankOfCanada",
+    "ModifiedOnUtc": "\/Date(1615374870000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Bank Of Canada",
+    "DependsOn": []
+  }
+}

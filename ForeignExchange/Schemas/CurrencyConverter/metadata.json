@@ -1,0 +1,73 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+      "A2": "CurrencyConverter",
+      "A5": "87859c3d-d767-4dc9-abcf-74be3ce80909",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "ff789696-f886-4baa-8c53-ef4028150d52",
+      "B8": "7.17.3.1377",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "246fc0b2-d4c2-683f-6459-4c82fd03b19b",
+          "A2": "Currency",
+          "A3": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "A4": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "L8": {},
+          "L6": true,
+          "L9": "2d36aca6-5b8c-4122-9648-baf3b7f8256d",
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "c4b37f4b-b586-a975-6495-7008d3fec5f4",
+          "A2": "Date",
+          "A3": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "A4": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "L1": "603d4960-a1a2-45e9-b232-206a54421b01",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "46d14658-2c9c-3a00-2ccb-c4ce439584f3",
+          "A2": "ExchangeRate",
+          "A3": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "A4": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "L1": "a4aaf398-3531-4a0d-9d75-a587f5b5b59e",
+          "L8": {},
+          "L11": false,
+          "L13": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "7a4f2d91-b2fa-e3e5-8662-dba5877a7526",
+          "A2": "BankName",
+          "A3": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "A4": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "b869308c-f703-7452-5eb5-b8a85d1c6ef5",
+          "A2": "ObservationDate",
+          "A3": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "A4": "ed8c74a2-2e91-4be0-8ab9-f9e5ee4f5e27",
+          "L1": "603d4960-a1a2-45e9-b232-206a54421b01",
+          "L8": {},
+          "L11": false
+        }
+      ],
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

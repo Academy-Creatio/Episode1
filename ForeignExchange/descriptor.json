@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff789696-f886-4baa-8c53-ef4028150d52",
+    "PackageVersion": "7.8.0",
+    "Name": "ForeignExchange",
+    "ModifiedOnUtc": "\/Date(1615019650000)\/",
+    "Maintainer": "Customer",
+    "Description": "Episode 1, Integrate like a boss\nhttps://github.com/Academy-Creatio/Episode1",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

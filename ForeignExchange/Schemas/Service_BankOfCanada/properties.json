@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://www.bankofcanada.ca/valet",
+    "CreatedInVersion": "7.17.3.1377",
+    "Type": "Rest"
+  }
+}

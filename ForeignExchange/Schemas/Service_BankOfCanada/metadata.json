@@ -1,0 +1,234 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+      "A2": "Service_BankOfCanada",
+      "A5": "87859c3d-d767-4dc9-abcf-74be3ce80909",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "ff789696-f886-4baa-8c53-ef4028150d52",
+      "B8": "7.17.3.1377",
+      "IQ1": "https://www.bankofcanada.ca/valet",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "86d467d8-390c-4e46-8db1-01026b8f45f8",
+          "A2": "GetFXUSDCAD",
+          "A3": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+          "A4": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "eadfc341-e15e-459c-b833-438b09af09a4",
+                "A2": "Startdate",
+                "IU1": "start_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "64607e03-545a-4882-b53e-39465c8484d1",
+                "A2": "Enddate",
+                "IU1": "end_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/observations/FXUSDCAD"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "d1bdf4cb-81c7-4013-b682-eb3d5f0bceca",
+                "A2": "TermsUrl",
+                "IU1": "$.terms.url",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "2dcd9bd7-451e-403b-abf6-ddd91b9aa2ef",
+                "A2": "FXUSDCADLabel",
+                "IU1": "$.seriesDetail.FXUSDCAD.label",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "774f490c-372b-4eea-9a92-c5c83095008d",
+                "A2": "FXUSDCADDescription",
+                "IU1": "$.seriesDetail.FXUSDCAD.description",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "87bf688b-0fd8-4855-b56a-c5210777405a",
+                "A2": "DimensionKey",
+                "IU1": "$.seriesDetail.FXUSDCAD.dimension.key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "8916b9d3-62cc-447c-adfc-af97cf233778",
+                "A2": "DimensionName",
+                "IU1": "$.seriesDetail.FXUSDCAD.dimension.name",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "67c7a220-1e17-40a0-87d9-d278a5f8d774",
+                "A2": "Observations",
+                "IU1": "$.observations",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "a2944c95-f197-4f95-b893-e5eb0dc04a51",
+                    "A2": "ObservationsD",
+                    "IU1": "d",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "d65c21a1-b29d-4265-9ecb-19b81f601e9d",
+                    "A2": "FXUSDCADV",
+                    "IU1": "FXUSDCAD.v",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "UId": "6ae0e9f5-ce16-4623-83ca-bbaf2b90014d",
+          "A2": "GetSingleFXUSDCAD",
+          "A3": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+          "A4": "ca1ee20f-0d29-4fb1-a389-7a3cb7c78826",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "3f259ec8-cc54-4557-bb6f-cedd95dc2b35",
+                "A2": "Startdate",
+                "IU1": "start_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "9446efb9-8cb4-4551-9f05-673c2fdc50f9",
+                "A2": "Enddate",
+                "IU1": "end_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/observations/FXUSDCAD"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "62d44976-08e1-40c8-ae6d-61a1b81e36bd",
+                "A2": "date",
+                "IU1": "$.observations[0].d",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              },
+              {
+                "UId": "298219aa-749a-4afb-b144-2375dfce5306",
+                "A2": "Parameter1",
+                "IU1": "$.observations[0].FXUSDCAD.v",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

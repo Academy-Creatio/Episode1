@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "6687459e-568f-4134-b743-0bc4a22b4010",
+    "Name": "Process_GetRateFromResponse",
+    "ModifiedOnUtc": "\/Date(1615373159000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "GetRateFromResponse"
+  }
+}

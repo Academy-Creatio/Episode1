@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Bank Of Canada" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Caption" Value="Get FXUSDCAD" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Request.Parameters.Enddate.Caption" Value="End_date" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Request.Parameters.Startdate.Caption" Value="Start_date" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.DimensionKey.Caption" Value="SeriesDetail FXUSDCAD Dimension Key" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.DimensionName.Caption" Value="SeriesDetail FXUSDCAD Dimension Name" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.FXUSDCADDescription.Caption" Value="SeriesDetail FXUSDCAD Description" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.FXUSDCADLabel.Caption" Value="SeriesDetail FXUSDCAD Label" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.Observations.Caption" Value="Observations" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.Observations.ItemProperties.FXUSDCADV.Caption" Value="FXUSDCAD V" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.Observations.ItemProperties.ObservationsD.Caption" Value="D" />
+			<Item Name="ServiceMethods.GetFXUSDCAD.Response.Parameters.TermsUrl.Caption" Value="Terms Url" />
+			<Item Name="ServiceMethods.GetSingleFXUSDCAD.Caption" Value="Get Single FXUSDCAD" />
+			<Item Name="ServiceMethods.GetSingleFXUSDCAD.Request.Parameters.Enddate.Caption" Value="End_date" />
+			<Item Name="ServiceMethods.GetSingleFXUSDCAD.Request.Parameters.Startdate.Caption" Value="Start_date" />
+			<Item Name="ServiceMethods.GetSingleFXUSDCAD.Response.Parameters.date.Caption" Value="Observation Date" />
+			<Item Name="ServiceMethods.GetSingleFXUSDCAD.Response.Parameters.Parameter1.Caption" Value="Rate" />
+		</Items>
+	</Group>
+</Resources>
